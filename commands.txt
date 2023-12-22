@@ -1,9 +1,13 @@
+git config -l - просмотреть текущую конфигурацию
 git config --global user.name "username"
 git config --global user.email @gmail.com
+
 git clone "url-adress" - клонирование существующего репозитория
 git init - создание нового репозитория
+
 git status - проверка текущего состояния
 git add . - добавить все изменения для коммита
 git commit -m "commit name"
+
 git push - отправить изменения в репозиторий
 git pull - скопировать на компьютер изменения с репозитория
