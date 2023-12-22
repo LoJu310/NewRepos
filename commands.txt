@@ -2,3 +2,5 @@ dir
 mkdir
 ren
 move
+git clone "url-adress" - клонирование существующего репозитория
+git init
