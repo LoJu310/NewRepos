@@ -11,3 +11,9 @@ git commit -m "commit name"
 
 git push - отправить изменения в репозиторий
 git pull - скопировать на компьютер изменения с репозитория
+
+
+git branch - просмотреть все ветви
+git branch branch_name - создать новую ветвь
+git checkout branch_name - переключиться на другую ветвь
+
